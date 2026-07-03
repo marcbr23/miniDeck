@@ -24,3 +24,9 @@ Ai reviewed and checked the code, solved issues and proposed upgrades.
 - Soldering iron
 - Wiring
 - Tin
+
+<img width="4000" height="3000" alt="IMG20260703183729" src="https://github.com/user-attachments/assets/23928ef0-dc15-49b5-98a1-c658a200fe71" />
+<img width="3000" height="4000" alt="IMG20260703182908" src="https://github.com/user-attachments/assets/c6b6ba92-1266-4824-bf0a-ba8ecba2d2fa" />
+<img width="4000" height="3000" alt="IMG20260703182919" src="https://github.com/user-attachments/assets/9050f2b7-b8ed-4f92-9725-5dd92a9fa1b1" />
+
+
