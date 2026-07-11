@@ -29,7 +29,7 @@ Ai reviewed and checked the code, solved issues and proposed upgrades.
 - Tin
 
 
-Note: The glue dots shown in the picture are used so the top of the case doesn't slip.
+Note: The glue dots shown in the picture are used so the top of the case doesn't slip. Also, the holes for the switches are quite tight, you may file it a little bit.
 
 
 <img width="4000" height="3000" alt="IMG20260703183729" src="https://github.com/user-attachments/assets/23928ef0-dc15-49b5-98a1-c658a200fe71" />
