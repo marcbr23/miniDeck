@@ -1,6 +1,8 @@
 # miniDeck
 
-Mini macropad created to make typing easier. One of the keys toggles Handy's STT. The other one opens the Arduino IDE.
+Mini macropad created to make typing easier. One of the keys toggles Handy's STT. The other one opens the Arduino IDE. Great and easy project for begginers. This was my first time soldering and I was quite pleased it worked first try.
+
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/6abd76b5-8dec-4f76-b86f-c41e748ac9d9" />
 
 
 # 🤝 Resources
@@ -13,6 +15,7 @@ First of all, I want to thank the people who created or developed these magnific
 - https://github.com/T-vK/ESP32-BLE-Keyboard
 - https://es.console-linux.com/?p=37698
 - https://handy.computer/
+- https://www.thingiverse.com/thing:421524
 
 # 🤖 AI Usage
 Ai reviewed and checked the code, solved issues and proposed upgrades.
@@ -24,6 +27,10 @@ Ai reviewed and checked the code, solved issues and proposed upgrades.
 - Soldering iron
 - Wiring
 - Tin
+
+
+Note: The glue dots shown in the picture are used so the top of the case doesn't slip.
+
 
 <img width="4000" height="3000" alt="IMG20260703183729" src="https://github.com/user-attachments/assets/23928ef0-dc15-49b5-98a1-c658a200fe71" />
 <img width="3000" height="4000" alt="IMG20260703182908" src="https://github.com/user-attachments/assets/c6b6ba92-1266-4824-bf0a-ba8ecba2d2fa" />
