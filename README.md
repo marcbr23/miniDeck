@@ -24,7 +24,6 @@ Ai reviewed and checked the code, solved issues and proposed upgrades.
 
 - 1x ESP32 DEVKITV1
 - 2x Mechanical switches
-- Soldering iron
 - Wiring
 - Tin
 
