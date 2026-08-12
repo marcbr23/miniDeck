@@ -1,6 +1,6 @@
 # miniDeck
 
-Mini macropad created to make typing easier. One of the keys toggles Handy's STT. The other one opens the Arduino IDE. Great and easy project for begginers. This was my first time soldering and I was quite pleased it worked first try.
+Mini macropad created to make typing easier. One of the keys toggles Handy's STT. The other one opens the Arduino IDE. Great and easy project for beginners. This was my first time soldering and I was quite pleased it worked first try.
 
 <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/6abd76b5-8dec-4f76-b86f-c41e748ac9d9" />
 
@@ -18,7 +18,7 @@ First of all, I want to thank the people who created or developed these magnific
 - https://www.thingiverse.com/thing:421524
 
 # 🤖 AI Usage
-Ai reviewed and checked the code, solved issues and proposed upgrades.
+AI reviewed and checked the code, solved issues and proposed upgrades.
 
 # ⚒️ Components
 
